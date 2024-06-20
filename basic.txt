@@ -1,1 +1,4 @@
-user space and kernel space?
+1.User space and Kernel space?
+2.Linux basic command
+3.Hard link and soft link 
+4.Inode
